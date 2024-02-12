@@ -1,0 +1,45 @@
+Intro to Js and its fundamentals
+
+1 - Explain what javascript is and its role in web dev. 
+
+Ans - Js is a Programming Language and widely used in accross web, 
+JavaScript is a scripting or programming language that allows you to implement complex features on web pages,This includes displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, JavaScript is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) are used to structure and style our web content1. JavaScript enables you to create dynamically updating content, control multimedia, animate images, and much more.
+
+2 - Explain the key differences between js and html. Provide example of situation where you would use each .
+
+Ans - HTML is a markup language used to structure content on the web. For example, you’d use HTML to create the basic layout of a webpage, like headers, paragraphs, and images.
+JavaScript is a programming language that adds interactivity to your website. For instance, you’d use JavaScript for things like handling button clicks, updating content dynamically, or making an API call to fetch data.
+In short, while HTML is used for the structure and content of a webpage, JavaScript is used to make the webpage dynamic and interactive.
+
+3 - List and describe the five primitive data types in JavaScript.
+
+Ans - Number: This data type can hold decimal values as well as values without decimals1. For example, let x = 250; let y = 40.5;.
+String: This data type represents a sequence of characters that are surrounded by single or double quotes1. For example, let str = 'Hello All'; let str1 = "Welcome to my new house";.
+Undefined: This data type is used when a variable has been declared but has not yet been assigned a value1. For example, let x; console.log(x); // Output: undefined.
+Boolean: This data type can accept only two values i.e. true and false1. For example, let isTrue = true; let isFalse = false;.
+Null: This data type can hold only one possible value that is null1. For example, let x = null;.
+
+
+4 - What is the purpose of declaring variables in JavaScript, and how do you declare them using the 'let' keyword?
+
+Ans - In JavaScript, variables serve as containers to store and manage data1. They allow developers to label data with a descriptive name, so the data can be referred to and manipulated throughout the program .
+let x; // declaring a variable named x
+
+
+5 - Explain the importance of comments in JavaScript and provide examples of single-line and multi-line comments.
+
+Ans - Comments are an essential tool for making your JavaScript code more readable and maintainable. By using single-line and multi-line comments effectively, you can improve code readability, facilitate collaboration, and document important decisions. 
+
+// This is a single-line comment
+/* This is a multi-line comment  It can span multiple lines */
+
+6 - Explain the importance of choosing meaningful and descriptive variable names in JavaScript. Provide an example where using a clear identifier improves code readability.
+
+
+Ans - A clear identifier is a name that accurately and concisely describes the purpose or meaning of a variable, function, or class. It should avoid ambiguity, confusion, or misleading information.
+
+// Bad example: unclear identifier
+let x = 3.14; // What does x mean?
+
+// Good example: clear identifier
+let pi = 3.14; // pi is a well-known constant.

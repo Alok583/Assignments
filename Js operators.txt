@@ -1,0 +1,37 @@
+1 - Explain the role of operators in JavaScript. Why are they essential in programming?
+
+Ans - Operators are symbols that perform specific operations on values, called operands. They are essential in programming because they allow you to manipulate data, perform calculations, compare values, and make decisions based on logic.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
